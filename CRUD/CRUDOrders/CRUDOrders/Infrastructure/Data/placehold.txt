@@ -1,0 +1,1 @@
+Infrastructure Data folder structure will be created in next steps.
